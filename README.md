@@ -1,2 +1,2 @@
 # Stephen-chizimuzo-favour-
-COS Assignment 
+COS 102 Assignment on python (grading system)
